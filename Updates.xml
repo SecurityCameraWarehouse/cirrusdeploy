@@ -3,25 +3,25 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>A</Name>
-  <DisplayName>A</DisplayName>
-  <Description>Example component A</Description>
-  <Version>1.0.2-1</Version>
-  <ReleaseDate>2015-01-01</ReleaseDate>
-  <Default>true</Default>
-  <UpdateFile OS="Any" UncompressedSize="74" CompressedSize="224"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>20ea5a11b21af25c0b1e936bacbb1e2fad2068bd</SHA1>
- </PackageUpdate>
- <PackageUpdate>
   <Name>B</Name>
   <DisplayName>B</DisplayName>
   <Description>Example component B</Description>
   <Version>1.0.0-1</Version>
   <ReleaseDate>2015-01-01</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" UncompressedSize="74" CompressedSize="224"/>
+  <UpdateFile CompressedSize="224" OS="Any" UncompressedSize="74"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>18a478a8a459aa908658430adf4b3bc4ffe03d50</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>A</Name>
+  <DisplayName>A</DisplayName>
+  <Description>Example component A</Description>
+  <Version>1.0.3-1</Version>
+  <ReleaseDate>2015-01-01</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="239" OS="Any" UncompressedSize="89"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>609cdeae7c0f98cee76aa6e945604ccf1e6b314b</SHA1>
  </PackageUpdate>
 </Updates>
