@@ -6,12 +6,12 @@
   <Name>A</Name>
   <DisplayName>A</DisplayName>
   <Description>Example component A</Description>
-  <Version>1.0.2-1</Version>
+  <Version>1.0.3-1</Version>
   <ReleaseDate>2015-01-01</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="224" OS="Any" UncompressedSize="74"/>
+  <UpdateFile OS="Any" UncompressedSize="89" CompressedSize="239"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>fd093bc725994d6c636cf37e94ce1de46679e16a</SHA1>
+  <SHA1>2a03c533180dbf30d311a245675af340a29bf851</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>B</Name>
@@ -20,8 +20,8 @@
   <Version>1.0.0-1</Version>
   <ReleaseDate>2015-01-01</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="224" OS="Any" UncompressedSize="74"/>
+  <UpdateFile OS="Any" UncompressedSize="74" CompressedSize="224"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>8accf1a5cc2db80b17f0ecdc97c027ba15b423b7</SHA1>
+  <SHA1>89d1a3e2fe5c1d6f1a15edef5a2f45f90cc53113</SHA1>
  </PackageUpdate>
 </Updates>
