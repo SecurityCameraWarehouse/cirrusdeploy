@@ -7,14 +7,14 @@
   <DisplayName>SCW Cirrus CMS</DisplayName>
   <Description>Camera Management Software</Description>
   <ReleaseDate>2019-06-19</ReleaseDate>
-  <Version>0.4.4</Version>
+  <Version>0.4.5</Version>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="48583463" UncompressedSize="145632330"/>
+  <UpdateFile UncompressedSize="145632330" CompressedSize="48582940" OS="Any"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License name="End User License Agreement" file="eula.txt"/>
   </Licenses>
-  <SHA1>5ec7641ae471ccc1e17916d4a0059ea755f80fdb</SHA1>
+  <SHA1>da8c13ea3d266984e81926b32ac05827a424694a</SHA1>
  </PackageUpdate>
 </Updates>
